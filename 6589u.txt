@@ -1,4 +1,4 @@
-Project Gutenberg's History of Modern Europe 1972-1878, by C. A. Fyffe
+Project Gutenberg's History of Modern Europe 1792-1878, by C. A. Fyffe
 
 This eBook is for the use of anyone anywhere at no cost and with
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -6,7 +6,7 @@ re-use it under the terms of the Project Gutenberg License included
 with this eBook or online at www.gutenberg.org
 
 
-Title: History of Modern Europe 1972-1878
+Title: History of Modern Europe 1792-1878
 
 Author: C. A. Fyffe
 
@@ -16,7 +16,7 @@ Language: English
 
 Character set encoding: ISO-8859-1
 
-*** START OF THIS PROJECT GUTENBERG EBOOK HISTORY OF MODERN EUROPE 1972-1878 ***
+*** START OF THIS PROJECT GUTENBERG EBOOK HISTORY OF MODERN EUROPE 1792-1878 ***
 
 
 
@@ -108,7 +108,7 @@ mainly with two sources of information--the unpublished Records of the
 English Foreign Office, and the published works which have during recent
 years resulted from the investigation of the Archives of Vienna. The
 English Records from 1792 to 1814, for access to which I have to express my
-thanks to Lord Granville, form a body of firsthand authority of
+thanks to Lord Granville, form a body of first-hand authority of
 extraordinary richness, compass, and interest. They include the whole
 correspondence between the representatives of Great Britain at Foreign
 Courts and the English Foreign Office; a certain number of private
@@ -522,7 +522,7 @@ Massacres: Execution of Gregorius, and Terrorism at Constantinople
 Affairs at Hydra--The Greek Leaders--Fall of Tripolitza--The Massacre of
 Chios--Failure of the Turks in the Campaign of 1822--Dissensions of the
 Greeks--Mahmud calls upon Mehemet Ali for Aid--Ibrahim conquers Crete and
-invades the Murea--Siege of Missolonghi--Philhellenism in Europe--Russian
+invades the Morea--Siege of Missolonghi--Philhellenism in Europe--Russian
 proposal for Intervention--Conspiracies in Russia: Death of Alexander:
 Accession of Nicholas--Military Insurrection at St. Petersburg--
 Anglo-Russian Protocol--Treaty between England, Russia, and France--Death
@@ -814,7 +814,7 @@ great lines of European history from that time to the present, briefly
 sketching the condition of some of the principal States at the outbreak of
 the Revolutionary War, and endeavouring to distinguish, amid scenes of
 ever-shifting incident, the steps by which the Europe of 1792 has become
-the Europe of today.
+the Europe of to-day.
 
 [First threats of foreign Courts against France, 1791.]
 
@@ -823,7 +823,7 @@ into collision with foreign Powers. This was not due to any goodwill that
 the Courts of Europe bore to the French people, or to want of effort on the
 part of the French aristocracy to raise the armies of Europe against their
 own country. The National Assembly, which met in 1789, had cut at the roots
-of the power of the Crown; it had deprived the nobility of their privilees,
+of the power of the Crown; it had deprived the nobility of their privileges,
 and laid its hand upon the revenues of the Church. The brothers of King
 Louis XVI., with a host of nobles too impatient to pursue a course of
 steady political opposition at home, quitted France, and wearied foreign
@@ -1753,7 +1753,7 @@ inflict a memorable vengeance, by delivering up the city of Paris to
 military execution and total overthrow, and the rebels guilty of such
 crimes to the punishment they have merited." [17]
 
-[Insurrection August 10, 1972.]
+[Insurrection August 10, 1792.]
 
 This challenge was not necessary to determine the fate of Louis. Since the
 capture of the Bastille in the first days of the Revolution the National
@@ -2590,7 +2590,7 @@ On the 15th of October Jourdan attacked and defeated their covering army at
 Wattignies. His victory forced the Austrians to raise the siege, and
 brought the campaign to an end for the winter.
 
-[Lyons, Toulon, La Vendée, conquered Oct.-Dec. 1793.]
+[Lyons, Toulon, La Vendée, conquered, Oct.-Dec. 1793.]
 
 Thus successful on the northern frontier, the Republic carried on war
 against its internal enemies without pause and without mercy. Lyons
@@ -2635,7 +2635,7 @@ where it had only to fight Austria's battles. Negotiations on the Polish
 question had been actively carried on between Berlin and St. Petersburg
 during the first months of the war; and in January, 1793, the Empress
 Catherine had concluded a Treaty of Partition with King Frederick William,
-in virtue of which a Prussian army under General Mollendorf immediately
+in virtue of which a Prussian army under General Möllendorf immediately
 entered western Poland. It was thought good policy to keep the terms of
 this treaty secret from Austria, as it granted a much larger portion of
 Poland to Prussia than Austria was willing that it should receive. Two
@@ -3575,7 +3575,7 @@ lay open; but in the midst of his victories Bonaparte learnt that the
 northern armies of Moreau and Jourdan, with which he had intended to
 co-operate in an attack upon Vienna, were in full retreat.
 
-[Invasion of Germany by Moureau and Jourdan, June-Oct. 1796.]
+[Invasion of Germany by Moreau and Jourdan, June-Oct., 1796.]
 
 [The Archduke Charles overpowers Jourdan.]
 
@@ -3608,7 +3608,7 @@ Before the Archduke Charles was ready to strike, the peasantry of this
 country, whom their governments were afraid to arm, had begun effective
 reprisals of their own. At length the retreating movement of the Austrians
 stopped. Leaving 30,000 men on the Lech to disguise his motions from
-Moreau, Charles turned suddenly northwards from Neuburg on the [***] August,
+Moreau, Charles turned suddenly northwards from Neuburg on the 17th August,
 met Wartensleben at Amberg, and attacked Jourdan at this place with greatly
 superior numbers. Jourdan was defeated and driven back in confusion towards
 the Rhine. The issue of the campaign was decided before Moreau heard of his
@@ -4767,7 +4767,7 @@ the Austrians upon the upper Adige, while Jourdan, also in communication
 with the centre, drove the Archduke down the Danube upon Vienna. Early in
 March the campaign opened. Massena assailed the Austrian positions east of
 the head-waters of the Rhine, and forced back the enemy into the heart of
-the Orisons. Jourdan crossed the Rhine at Strasburg, and passed the Black
+the Grisons. Jourdan crossed the Rhine at Strasburg, and passed the Black
 Forest with 40,000 men. His orders were to attack the Archduke Charles,
 whatever the Archduke's superiority of force. The French and the Austrian
 armies met at Stockach, near the head of the Lake of Constance (March 25).
@@ -5998,7 +5998,7 @@ by the English, and the Government immediately determined to accept no
 capitulation which did not surrender the whole of the French army as
 prisoners of war. An order to this effect was sent to the Mediterranean.
 Before, however, the order reached Sir Sidney Smith, the English admiral
-cooperating with the Turks, an agreement had been already signed by him at
+co-operating with the Turks, an agreement had been already signed by him at
 El Arish, granting Kleber's army a free return to France (Feb. 24, 1800).
 After Kleber, in fulfilment of the conditions of the treaty, had withdrawn
 his troops from certain positions, Sir Sidney Smith found himself compelled
@@ -8519,7 +8519,7 @@ the river Passarge, and awaited the arrival of reinforcements.
 
 [Fall of Grenville's Ministry, March 24, 1807.]
 
-[Treaty of Barrenstein between Russia, Prussia, England, and Sweden.
+[Treaty of Bartenstein between Russia, Prussia, England, and Sweden.
 April, 1807.]
 
 The warfare of the next few months was confined to the reduction of the
@@ -9548,7 +9548,7 @@ Spain were compelled to retire to a defensive position upon the Ebro.
 
 [Wellesley lands in Portugal, Aug. 1, 1808.]
 
-[Vimeiro, Aug. 21.]
+[Vimieiro, Aug. 21.]
 
 [Convention of Cintra, Aug. 30.]
 
@@ -10496,7 +10496,7 @@ every movement, every position to be occupied by each member of this vast
 mass in its passage and advance, was fixed down to the minutest details.
 Napoleon had decided to cross from the eastern, not from the northern side
 of the island, and thus to pass outside the fortifications which the
-Archduke had erected on the former battlefield. Towards midnight on the 4th
+Archduke had erected on the former battle-field. Towards midnight on the 4th
 of July, in the midst of a violent storm, the six bridges were successively
 swung across the river. The artillery opened fire. One army corps after
 another, each drawn up opposite to its own bridge, marched to the northern
@@ -10515,7 +10515,7 @@ himself between the enemy and the bridges behind them.
 
 [Battle of Wagram, July 5, 6.]
 
-[Armistice of Zuaim, July 12.]
+[Armistice of Znaim, July 12.]
 
 Early on the morning of the 6th the two largest armies that had ever been
 brought face to face in Europe began their onslaught. Spectators from the
@@ -10538,7 +10538,7 @@ Bohemia behind it. Whether Austria would continue the war depended on the
 action of the other European Powers. If Great Britain successfully landed
 an armament in Northern Germany or dealt any overwhelming blow in Spain, if
 Prussia declared war on Napoleon, Austria might fight on. If the other
-Powers failed, Austria, must make peace. The armistice of Zuaim, concluded
+Powers failed, Austria, must make peace. The armistice of Znaim, concluded
 on the 12th of July, was recognised on all sides as a mere device to gain
 time. There was a pause in the great struggle in the central Continent. Its
 renewal or its termination depended upon the issue of events at a distance.
@@ -11321,7 +11321,7 @@ character to excite enthusiasm. A true patriot at heart, he seemed at times
 to be destitute of patriotism, when he was in fact only destitute of the
 power to reveal his real motives.
 
-[Hardenburg's foreign policy, 1811.]
+[Hardenberg's foreign policy, 1811.]
 
 Convinced that Prussia could not remain neutral in the coming war, and
 believing some relief from its present burdens to be absolutely necessary,
@@ -11556,7 +11556,7 @@ was continued only with the intention of halting at the first strong
 position. Barclay himself was surveying a battleground when he heard that
 the command had been taken out of his hands. The Czar had been forced by
 national indignation at the loss of Smolensko to remove this able soldier,
-who was a Livonian by birth, and to transfer the command to Kutusotff, a
+who was a Livonian by birth, and to transfer the command to Kutusoff, a
 thorough Russian, whom a life-time spent in victories over the Turk had
 made, in spite of his defeat at Austerlitz, the idol of the nation.
 
@@ -12330,7 +12330,7 @@ demands.
 
 It was a game of deceit; but there was no one who was so thoroughly
 deceived as Napoleon himself. By some extraordinary miscalculation on the
-part of his secret agents, he was led to believe that the forces of [***]
+part of his secret agents, he was led to believe that the
 whole force of Austria, both in the north and the south, amounted to only
 100,000 men, [183] and it was on this estimate that he had formed his plans
 of intimidation. In reality Austria had double that number of men ready to
@@ -12567,7 +12567,7 @@ upon Blücher. All was in vain. Ney, advancing on Berlin, was met by the
 Prussian general Billow at Dennewitz, and totally routed (Sept. 6):
 Blücher, finding that Napoleon himself was before him, skilfully avoided
 battle, and forced his adversary to waste in fruitless marches the brief
-interval which he had [***] from his watch on Schwarzenberg. Each conflict
+interval which he had snatched from his watch on Schwarzenberg. Each conflict
 with the enemy, each vain and exhausting march, told that the superiority
 had passed from the French to their foes, and that Napoleon's retreat was
 now only a matter of time. "These creatures have learnt something," said
@@ -12686,7 +12686,7 @@ the dream lasted only long enough to gain a record. Napoleon ventured no
 more than to send a corps back to the Elbe to threaten Berlin, in the hope
 of tempting Blücher and Bernadotte to abandon the advance which they had
 now begun in co-operation with the great army of Schwarzenberg. From the
-10th to the 14th of October, Napoleon [***] at Düben, between Dresden and
+10th to the 14th of October, Napoleon lingered at Düben, between Dresden and
 Leipzig, restlessly expecting to hear of Blücher's or Bernadotte's retreat.
 The only definite information that he could gain was that Schwarzenberg was
 pressing on towards the west. At length he fell back to Leipzig, believing
@@ -13845,7 +13845,7 @@ persecuting men who had taken part in the great movement of 1789, and in
 intimidating the peasant-owners of land that had been confiscated and sold
 by the State. Nor were the priesthood backward in discrediting the
 Government of Louis XVIII. in the service of their own order. It might be
-vain to think of recovering the Churchlands, or of introducing the
+vain to think of recovering the Church-lands, or of introducing the
 Inquisition into France, but the Court might at least be brought to invest
 itself with the odour of sanctity, and the parish-priest might be made as
 formidable a person within his own village as the mayor or the agent of the
@@ -14187,7 +14187,7 @@ Toulon and Marseilles, where most of the population were fiercely Royalist,
 resistance, Napoleon struck northwards into the mountains, intending to
 descend upon Lyons by way of Grenoble. There were few troops in this
 district, and no generals capable of influencing them. The peasantry of
-Dauphine were in great part holders of land that had been taken from the
+Dauphiné were in great part holders of land that had been taken from the
 Church and the nobles: they were exasperated against the Bourbons, and,
 like the peasantry of France generally, they identified the glory of the
 country which they loved with the name and the person of Napoleon. As the
@@ -14598,7 +14598,7 @@ Blücher and his soldiers met them with all the gallantry and even more than
 the fury of 1813. There was murderous hand-to-hand fighting in the villages
 where the Prussians had taken up their position: now the defenders, now the
 assailants gave way: but at last the Prussians, with a loss of thirteen
-thousand men, withdrew from the combat, and left the battlefield in
+thousand men, withdrew from the combat, and left the battle-field in
 possession of the enemy. If the conquerors had followed up the pursuit that
 night, the cause of the Allies would have been ruined. The effort of battle
 had, however, been too great, or the estimate which Napoleon made of his
@@ -16203,7 +16203,7 @@ Fatherland, he had believed that neither Frederick William nor Alexander
 would allow Prussia to remain without free institutions after the battle
 was won. The keener spirits in the War of Liberation had scarcely
 distinguished between the cause of national independence and that of
-internal liberty. They returned from the battlefields of Saxony and France,
+internal liberty. They returned from the battle-fields of Saxony and France,
 knowing that the Prussian nation had unsparingly offered up life and wealth
 at the call of patriotism, and believing that a patriot-king would rejoice
 to crown his triumph by inaugurating German freedom. For a while the hope
@@ -18079,7 +18079,7 @@ martyrs of Italian freedom passed out of the sight of the world, out of the
 range of all human communication, buried for years to come in the silent,
 unvisited prison of the North. [329]
 
-[The French Ultra Royalists urging attack on Spain.]
+[The French Ultra-Royalists urging attack on Spain.]
 
 Thus the victory of absolutism was completed, and the law was laid down to
 Europe that a people seeking its liberties elsewhere than in the grace and
@@ -18601,7 +18601,7 @@ able to maintain.
 
 [Affairs in Portugal.]
 
-[Constitution granted by Petro, May, 1826.]
+[Constitution granted by Pedro, May, 1826.]
 
 The overthrow of the Spanish Constitution by foreign arms led to a series
 of events in Portugal which forced England to a more direct intervention in
@@ -20156,7 +20156,7 @@ of the Greek nation.
 
 [Double invasion of Greece 1822.]
 
-[Destruction of the Pilhellenes near Arta, July 16.]
+[Destruction of the Philhellenes near Arta, July 16.]
 
 [Unsuccessful siege of Missolonghi, Nov., 1822.]
 
@@ -20468,7 +20468,7 @@ Ibrahim's alleged policy of extermination and re-settlement. The days were
 past when Europe could permit its weakest member to be torn from it and
 added to the Mohammedan world.
 
-[Siege of Missolongi, April, 1825-April, 1826.]
+[Siege of Missolonghi, April, 1825-April, 1826.]
 
 One episode of the deepest tragic interest yet remained in the
 Turko-Hellenic conflict before the Powers of Europe stepped in and struck
@@ -20916,7 +20916,7 @@ predecessors, the mind of England and of Europe has long been made up. He
 stands among those who have given to this country its claim to the respect
 of mankind. His monument, as well as his justification, is the existence of
 national freedom in the East; and when half a century later a British
-Government reverted to the principle of nonintervention, as it had been
+Government reverted to the principle of non-intervention, as it had been
 understood by Castlereagh, and declined to enter into any effective
 co-operation with Russia for the emancipation of Bulgaria, even then, when
 the precedent of Canning's action in 1827 stood in direct and glaring
@@ -20929,7 +20929,7 @@ language of apology and regret when Turkish obstinacy had made it
 impossible to effect the object of his intervention by any other means, had
 indeed read the history of Canning's career in vain. [375]
 
-[Intervention of the Admirals, Sept., 1927.]
+[Intervention of the Admirals, Sept., 1827.]
 
 The death of Canning, which brought his rival, the Duke of Wellington,
 after a short interval to the head of affairs, caused at the moment no
@@ -21246,7 +21246,7 @@ everywhere collapsed. The mountains were crossed without difficulty, and on
 the 19th of August the invaders appeared before Adrianople, which
 immediately surrendered. Putting on the boldest countenance in order to
 conceal his real weakness, Diebitsch now struck out right and left, and
-sent detachments both to the Euxine and the Aegean coast. The fleet
+sent detachments both to the Euxine and the Ægæan coast. The fleet
 co-operated with him, and the ports of the Black Sea, almost as far south
 as the Bosphorus, fell into the invaders' hands. The centre of the army
 began to march upon Constantinople. If the Sultan had known the real
@@ -21918,7 +21918,7 @@ quitted Paris to await events. The men who had out-voted him placed
 themselves in communication with all the district committees of Paris, and
 began the actual work of revolt by distributing arms. On the morning of
 Wednesday, July 28th, the first armed bands attacked and captured the
-arsenals and several private depots of weapons and ammunition. Barricades
+arsenals and several private depôts of weapons and ammunition. Barricades
 were erected everywhere. The insurgents swelled from hundreds to thousands,
 and, converging on the old rallying-point of the Commune of Paris, they
 seized the Hôtel de Ville, and hoisted the tricolor flag on its roof.
@@ -24717,7 +24717,7 @@ public. They comprised the taxation of the nobles, a reform of the
 municipalities, modifications in the land-system, and a variety of economic
 measures intended directly to promote the material development of the
 country. The latter were framed to some extent on the lines laid down by
-Szechenyi, who now, in bitter antagonism to Kossuth, accepted office under
+Széchenyi, who now, in bitter antagonism to Kossuth, accepted office under
 the Government, and gave to it the prestige of his great name. It remained
 for the Opposition to place their own counter-proposals before the country.
 Differences within the party were smoothed over, and a manifesto, drawn up
@@ -26688,7 +26688,7 @@ second engagement at Goito, and Peschiera passed into the besiegers' hands,
 this was the last success won by the Italians. Throwing himself suddenly
 eastwards, Radetzky appeared before Vicenza, and compelled this city, with
 the entire Papal army, commanded by General Durando, to capitulate. The
-fall of Vicenza was followed June, July, by that of the other cities on the
+fall of Vicenza was followed by that of the other cities on the
 Venetian mainland till Venice alone on the east of the Adige defied the
 Austrian arms. As the invader pressed onward, an Assembly which Manin had
 convoked at Venice decided on union with Piedmont. Manin himself had been
@@ -29196,7 +29196,7 @@ lamentable celebrity as the generals of 1870, were gradually brought over
 from Algiers and placed round the Minister in the capital. The command of
 the army of Paris was given to General Magnan, who, though he preferred not
 to share in the deliberations on the _coup d'état_, had promised his
-cooperation when the moment should arrive. The support, or at least the
+co-operation when the moment should arrive. The support, or at least the
 acquiescence, of the army seemed thus to be assured. The National Guard,
 which, under Changarnier, would probably have rallied in defence of the
 Assembly, had been placed under an officer pledged to keep it in inaction.
@@ -29252,7 +29252,7 @@ nor altogether at his command. On his requiring that the repeal of the law
 of May 31st should be proposed to the Assembly, the Cabinet resigned. The
 way to the highest functions of State was thus finally opened for the
 agents of the _coup d'état_. St. Arnaud was placed at the War Office,
-Maupas at the Préfecture of Police. The colleagues assigned to them were
+Maupas at the Prefecture of Police. The colleagues assigned to them were
 too insignificant to exercise any control over their actions. At the
 reopening of the Assembly on the 4th of November an energetic message from
 the President was read. On the one hand he denounced a vast and perilous
@@ -29406,7 +29406,7 @@ appearance of a handful of soldiers, were represented as the prelude to a
 vast Socialist revolution from which the _coup d'etat_, and that alone, had
 saved France. Terrified by the re-appearance of the Red Spectre, the French
 nation proceeded on the 20th of December to pass its judgment on the
-accomplished usurpation. The question submitted for the _plebiscite_ was,
+accomplished usurpation. The question submitted for the _plébiscite_ was,
 whether the people desired the maintenance of Louis Napoleon's authority
 and committed to him the necessary powers for establishing a Constitution
 on the basis laid down in his proclamation of December 2nd. Seven million
@@ -30372,7 +30372,7 @@ few, too weak, too destitute of the helpful ways of English sailors, to
 assist in providing for themselves. Thus penned up on the bleak promontory,
 cholera-stricken, mocked rather than sustained during their benumbing toil
 with rations of uncooked meat and green coffee-berries, the British
-soldiery wasted away. Their effective force sank at midwinter to eleven
+soldiery wasted away. Their effective force sank at mid-winter to eleven
 thousand men. In the hospitals, which even at Scutari were more deadly to
 those who passed within them than the fiercest fire of the enemy, nine
 thousand men perished before the end of February. The time indeed came when
@@ -30911,7 +30911,7 @@ intense patriotism, of loyalty to his engagements and to his Ministers, of
 devotion to a single great aim. Little given to speculative thought, he saw
 what it most concerned him to see, that Piedmont by making itself the home
 of liberty could become the Master-State of Italy. His courage on the
-battlefield, splendid and animating as it was, distinguished him less than
+battle-field, splendid and animating as it was, distinguished him less than
 another kind of courage peculiarly his own. Ignorant and superstitious, he
 had that rare and masculine quality of soul which in the anguish of
 bereavement and on the verge of the unseen world remains proof against the
@@ -33666,7 +33666,7 @@ of the arts by which alone such aims were to be realised. Napoleon desired
 to see Italy placed in possession of Venice; he probably believed at this
 time that Austria would be no unequal match for Prussia and Italy together,
 and that the natural result of a well-balanced struggle would be not only
-The completion of Italian union but the purchase of French neutrality or
+the completion of Italian union but the purchase of French neutrality or
 mediation by the cession of German territory west of the Rhine. It was no
 part of the duty of Count Bismarck to chill Napoleon's fancies or to teach
 him political wisdom. The Prussian statesman may have left Biarritz with
@@ -35188,7 +35188,7 @@ Berlin. Before the winter of 1868 a memoir had been drawn up by General
 Moltke, containing plans for the concentration of the whole of the German
 forces, for the formation of each of the armies to be employed, and the
 positions to be occupied at the outset by each corps. On the basis of this
-memoir the arrangements for the transport of each corps from its depot to
+memoir the arrangements for the transport of each corps from its depôt to
 the frontier had subsequently been worked out in such minute detail that
 when, on the 16th of July, King William gave the order for mobilisation,
 nothing remained but to insert in the railway time-tables and
@@ -35250,7 +35250,7 @@ Strasburg, and with these armies united to cross the Rhine into Baden;
 while a third army, which was to assemble at Châlons, protected the
 north-eastern frontier against an advance of the Prussians. A few days
 after the declaration of war, while the German corps were still at their
-depots in the interior, considerable forces were massed round Metz and
+depôts in the interior, considerable forces were massed round Metz and
 Strasburg. All Europe listened for the rush of the invader and the first
 swift notes of triumph from a French army beyond the Rhine; but week after
 week passed, and the silence was still unbroken. Stories, incredible to
@@ -35380,7 +35380,7 @@ touched on its right the northern army commanded by General Steinmetz, on
 its left the southern army commanded by the Crown Prince, which covered the
 frontier of the Palatinate, and included the troops of Bavaria and
 Würtemberg. The general direction of the three armies was thus from
-northwest to south-east. As the line of invasion was to be nearly due west,
+north-west to south-east. As the line of invasion was to be nearly due west,
 it was necessary that the first step forwards should be made by the army of
 the Crown Prince in order to bring it more nearly to a level with the
 northern corps in the march into France. On the 4th of August the Crown
@@ -36028,7 +36028,7 @@ re-conquest of Alsace, would most seriously have affected the position of
 the Germans before Paris. But Gambetta miscalculated the power of young,
 untrained troops, imperfectly armed, badly fed, against a veteran enemy. In
 a series of hard-fought struggles the army of the Loire under General
-Chanzy was driven back at the beginning of January from Vendome to Le Mans.
+Chanzy was driven back at the beginning of January from Vendôme to Le Mans.
 On the 12th, Chanzy took post before this city and fought his last battle.
 While he was making a vigorous resistance in the centre of the line, the
 Breton regiments stationed on his right gave way; the Germans pressed round
@@ -37344,7 +37344,7 @@ distasteful than others to Great Britain; and Count Schouvaloff, who was
 sincerely desirous of peace, applied himself to the task of discovering
 with what concessions Lord Beaconsfield's Cabinet would be satisfied. He
 found that if Russia would consent to modifications of the Treaty in
-Congress excluding Bulgaria from the Aegean Sea, reducing its area on the
+Congress excluding Bulgaria from the Ægean Sea, reducing its area on the
 south and west, dividing it into two provinces, and restoring the Balkans
 to the Sultan as a military frontier, giving back Bayazid to the Turks, and
 granting to other Powers besides Russia a voice in the organisation of
@@ -37534,7 +37534,7 @@ ultimate independence.
 
 [3] Page 362 of this Edition.
 
-[4] Ranke, Ursprung und Beginn der Revolutionskriege, p. 90, Vivenot,
+[4] Ranke, Ursprung und Beginn der Revolutionskriege, p. 90. Vivenot,
 Quellen zur Geschichte der Kaiserpolitik Oesterreichs, i. 185, 208.
 
 [5] Von Sybel, Geschichte der Revolutionszeit, i. 289.
@@ -37605,7 +37605,7 @@ those persons who, though probably culpable, had yet been left untouched by
 the Prussian commanders. To such an extent has this been carried that the
 commander at Verdun would not suffer any Frenchman (emigrant) to pass a
 night in the town without a special permission." Sept. 21. After the
-failure of the campaign, Elgin writes of the emigrants: "They every-where
+failure of the campaign, Elgin writes of the emigrants: "They everywhere
 added to the cruelties for some of which several hussars had been executed:
 carried to its extent the vengeance threatened in the Duke of Brunswick's
 Declaration, in burning whole villages where a shot was fired on them: and
@@ -37894,7 +37894,7 @@ feudale." Nothing but a study of these details of actual life described by
 eye-witnesses can convey an adequate impression of the completeness and the
 misery of the feudal order in the more backward countries of Europe till
 far down in the eighteenth century. There is a good anonymous account of
-Sicily in 1810 in Castlereagh, 8, 317.
+Sicily in 1810 in Castlereagh, 8, 217.
 
 [48] Correspondance de Napoleon, i. 260. Botta, lib. vi. Despatches of Col.
 Graham, British attaché with the Austrian army, in Records: Italian States,
@@ -38338,7 +38338,7 @@ p. 35 Häusser, ii. 398.
 
 [97] Pertz, Leben Stein, i. 257. Seeley's Stein, i. 125.
 
-[98] The first hand account of the formation of the Code Napoleon, with
+[98] The first-hand account of the formation of the Code Napoleon, with
 the Procès Verbal of the Council of State and the principal reports,
 speeches, etc., made in the Tribunate and the Legislative Bodies, is to
 be found in the work of Baron Locré, "La Legislation de la France,"
@@ -38375,7 +38375,7 @@ totally abolishing the legal penalties of non-jurors. This was immediately
 followed by the coup d'état of Fructidor.
 
 [100] Grégoire, Mémoires, ii. 87. Annales de la Religion, x. 441;
-Pressensé, L'Eglise et la Revolution, p. 359.
+Pressensé, L'Eglise et la Révolution, p. 359.
 
 [101] Papers presented to Parliament, 1802-3, p. 95.
 
@@ -38436,7 +38436,7 @@ and the apprehensions which were at one time entertained from the immense
 force which Bonaparte is bringing into Germany gradually decrease."--Sir A.
 Paget's Despatch from Vienna, Sept, 18; Records: Austria, vol. 75.
 
-[114] Rustow, p. 154. Schönhals, Krieg von 1805, p. 33. Paget's despatch,
+[114] Rustow, p. 154. Schönhals, Krieg von, 1805, p. 33. Paget's despatch,
 Oct. 25; Records: Austria, vol. 75. "The jealousy and misunderstanding
 among the generals had reached such a pitch that no communication took
 place between Ferdinand and Mack but in writing. Mack openly attributed his
@@ -38455,7 +38455,7 @@ Collenbach are in such a state of mind as to render them totally unfit for
 all business." Cobenzl was nevertheless still able to keep up his jocular
 style in asking the ambassador for the English subsidies:--"Vous êtes
 malade, je le suis aussi un peu, mais ce qui est encore plus malade que
-nous deux ce sont nos finances; ainsi pour l'amour de Dieu dépêchez vous de
+nous deux ce sont nos finances: ainsi pour l'amour de Dieu dépêchez vous de
 nous donner vos deux cent mille livres sterlings. Je vous embrasse de tout
 mon coeur,"--Cobenzl to Paget, enclosed in _id_.
 
@@ -38511,23 +38511,24 @@ discover what intelligence is brought by Count Haugwitz."
 
 [123] Correspondence de Napoleon, xii. 253.
 
-[Transcriber's Note: A corner had been torn from the page in our print
-copy. A [***] sometimes indicates several missing words.]
-
 [124] The story of Pitt's "Austerlitz look" preceding his death is so
 impressive and so well known that I cannot resist giving the real facts
 about the reception of the news of Austerlitz in England. There were four
 Englishmen who were expected to witness the battle, Sir A. Paget,
 ambassador at Vienna, Lord L. Gower, ambassador with the Czar, Lord
 Harrington and General Ramsay, military envoys. Of these, Lord Harrington
-had left England too late to reach the armies; Sir A. Paget sat [***]
-despatches at Olmütz without hearing the firing, and on going out alter the
-[***] astonished to fall in with the retreating army; Gower was too far in
-[***] General Ramsay unfortunately went off on that very day to get some
-[***] no Englishman witnessed the awful destruction that took [***] that
-reached England, quite misrepresented [***] decisive one. Pitt actually
-thought at first [***] to his policy, and likely to encourage [***] as
-December 20th the following [***] "Even supposing the advantage of [***]
+had left England too late to reach the armies; Sir A. Paget sat writing
+despatches at Olmütz without hearing the firing, and on going out after the
+post left, was astonished to fall in with the retreating army; Gower was too far in
+the rear; and General Ramsay unfortunately went off on that very day to get some
+new passes. In consequence no Englishman witnessed the awful destruction that took place;
+and Paget's despatch, the first that
+reached England, quite misrepresented the battle, treating the defeat as not a decisive one. Pitt actually
+thought at first that the effect of the battle was favourable to his policy, and likely to encourage
+Prussia in its determination to fight. So late as
+December 20th the following
+instructions were sent to Harrowby at Berlin: "Even supposing the advantage of
+the day to have been decidedly with Bonaparte, it
 must have been obtained with a loss which cannot have left his force in a
 condition to contend with the army of Prussia and at the same time to make
 head against the Allies. If on the other hand it should appear that the
@@ -38711,7 +38712,7 @@ Austria, but was thwarted by Talleyrand.
 120, Pelet, Mémoires sur la Guerre de 1809, i. 223.
 
 [159] "Je n'ai jamais vu d'affaire aussi sanglante et aussi meurtrière."
-Report of the French General, Mémoires de Jérôme, iv. 109.
+Report of the French General, Mémoires de Jérome, iv. 109.
 
 [160] See Arndt's Poem on Schill. Gedichte, i. 328 (ed. 1837).
 
@@ -38845,7 +38846,7 @@ are always treated as within the range of English policy.
 are in Records: Sicily, Vol. 98. "The Genoese universally desire the
 restoration of their ancient Republic. They dread above all other
 arrangements their annexation to Piedmont, to the inhabitants of which
-there have always existed a peculiar aversion."--Bentick's Despatch, April
+there have always existed a peculiar aversion."--Bentinck's Despatch, April
 27, 1814, _id._
 
 [195] Castlereagh, x. 18.
@@ -39006,7 +39007,7 @@ Cont., vol 23.
 
 [241] Despatches, xii. 596. Seeley's Stein, iii. 332.
 
-[242] B. and F State Papers, 1815-16, iii. 201. The second article is the
+[242] B. and F. State Papers, 1815-16, iii. 211. The second article is the
 most characteristic:--"Les trois Princes ... confessant que la nation
 Chrétienne dont eux et leurs peuples font partie n'a réellement d'autre
 Souverain que celui à qui seul appartient en propriété la puissance ...
@@ -39136,7 +39137,7 @@ parents appear to have been Würtemberg people who had settled in Alsace.
 The name was really Neu (New).
 
 [268] See the extracts from La Bourdonnaye's printed speech in _Journal
-des Débits_, 19 Novembre: "Pour arrêter leurs trames criminelles, il faut
+des Débats_, 19 Novembre: "Pour arrêter leurs trames criminelles, il faut
 des fers, des bourreaux, des supplices. La mort, la mort seule peut
 effrayer leurs complices et mettre fin à leurs complots," etc. The journals
 abound with similar speeches.
@@ -39224,11 +39225,11 @@ Castlereagh, xii. 47.
 
 [286] "I could write you a long letter about the honour which the Prussians
 pay to everything Austrian, our whole position, our measures, our language.
-Metternich has fairly enchanted them." Gentz, Nachlasse [Osten], i. 52.
+Metternich has fairly enchanted them." Gentz, Nachlasse [Osten], i. 51.
 
 [287] Metternich, iii. 171.
 
-[288] See his remarks in Metternich, iii. 269; an oasis of sense in this
+[288] See his remarks in Metternich, iii. 269: an oasis of sense in this
 desert of Commonplace.
 
 [289] Stourdza, Denkschrift, etc., p. 31. The French original is not in the
@@ -39328,7 +39329,7 @@ Federation of 1789. I was fifteen, and already a man."
 
 [307] Baumgarten, Geschichte Spaniens, ii. 175.
 
-[308] See the note of Fernan Nuñez, in Wellington, S. D, xii 582. "Les
+[308] See the note of Fernan Nuñez, in Wellington, S. D., xii. 582. "Les
 efforts unanimes de ces mêmes Puissances ont détruit le système
 dévastateur, d'où naquit la rébellion Américaine; mais il leur restait
 encore à le détruire dans l'Amérique Espagnole."
@@ -39410,8 +39411,8 @@ Charta.
 
 [324] Castlereagh, xii. 330.
 
-[325] Metternich, iii. 394. B. and F. State Papers, viii. 1160. Gentz, D.
-I., ii. 112. The best narrative of the Congress of Troppau is in Duvergier
+[325] Metternich, iii. 394. B. and F. State Papers, viii. 1160. Gentz, D.I.,
+ii. 112. The best narrative of the Congress of Troppau is in Duvergier
 de Hauranne, vi. 93. The Life of Canning by his secretary, Stapleton,
 though it is a work of some authority on this period, is full of
 misstatements about Castlereagh. Stapleton says that Castlereagh took no
@@ -39432,9 +39433,9 @@ and disappointment at England's action, to see that this is a fiction.
 [326] Had Ferdinand's first proposals been accepted by the Neapolitan
 Parliament, France and England, it was thought, might have insisted on a
 compromise at Laibach. "Les Gouvernements de France et d'Angleterre
-auraient fortement insisté sur l'introduction d'un regime constitutionnel
+auraient fortement insisté sur l'introduction d'un régime constitutionnel
 et représentatif, régime que la Cour de Vienne croit absolument
-incompatible avec la position des États de l'Italie, et avec la sureté de
+incompatible avec la position des États de l'Italie, et avec la sûreté de
 ses propres États." Gentz, D.I., ii. 110.
 
 [327] Gentz, Nachlasse (P. Osten), i. 67. Lest the reader should take a
@@ -39518,7 +39519,7 @@ undertaken for this period of Spanish history.
 
 [343] See e.g., Stapleton, Canning and his Times p. 378. Wellington often
 suggested the use of less peremptory language. Despatches, i. 134,
-188[***], Metternich wrote as follows on hearing at Vienna of Castlereagh's
+188. Metternich wrote as follows on hearing at Vienna of Castlereagh's
 death: "Castlereagh was the only man in his country who had gained any
 experience in foreign affairs. He had learned to understand me. He was
 devoted to me in heart and spirit, not only from personal inclination, but
@@ -39666,7 +39667,7 @@ Stapleton, Canning, p. 496 Metternich, 127. Wellington, N.S. ii. 372-396.
 p. 106; Mendelssohn, i. 396. Schnitzler, Histoire Intime, i. 195.
 
 [373] B. and F. State Papers, xiv. 630; Metternich, iv. 161, 212, 320, 372;
-Willington, N.S., ii. 85, 148, 244; Gentz, D.I., iii. 315.
+Wellington, N.S., ii. 85, 148, 244; Gentz, D.I., iii. 315.
 
 [374] B. and F. State Papers, xiv. 632; xvii. 20; Wellington, N.S., iv. 57.
 
@@ -39685,8 +39686,8 @@ nor less than measures of war;" and he protested against the statement that
 the treaty arose directly out of the Protocol of St. Petersburg, which was
 his own work. Wellington, N.S., iv. 137, 221.
 
-[376] Bourchier's Codrington, ii. 6[***]. Admiralty Despatches, Nov. 10,
-1807, Parl. Deb., Feb. 14, 1828.
+[376] Bourchier's Codrington, ii. 62. Admiralty Despatches, Nov. 10,
+1827, Parl. Deb., Feb. 14, 1828.
 
 [377] Rosen, Geschichte der Türkei, i. 57.
 
@@ -39719,7 +39720,7 @@ de 1830, p. 60. Hillebrand, Die Juli-Revolution, p. 87.
 
 [389] Wellington, N.S. vii. 309. B. and F. State Papers, xviii. 761.
 Metternich, v. 44. Hillebrand, Geschichte Frankreichs, i. 171. Stockmar, i.
-143. Bulwers Palmerston, ii. 5. Hertslet, Map of Europe, iii. 81.
+143. Bulwer's Palmerston, ii. 5. Hertslet, Map of Europe, iii. 81.
 
 [390] Smitt, Geschichte des Polnischen Aufstandes, i. 112. Spazier,
 Geschichte des Aufstandes, i. 177. Leiewel, Histoire de Pologne, i. 300.
@@ -39825,9 +39826,9 @@ of Russia at the time of the battle of Austerlitz, till 1861.
 [413] Adlerstein, Archiv des Ungarischen Ministeriums, i. 27; Irányi et
 Chassin, i. 184; Springer, ii. 219.
 
-[414] Casati Nuove Rivelazioni, ii. 72. Schönhals, Campagnes d'ltalie de
-1848 et 1849 p. 72. Cattaneo, Insurrezione di Milano, p. 29. Parl. Pap.
-1849, lvii. (2) 210, 333. Senneidawind, Feldzug in 1848, i. 30.
+[414] Casati Nuove Rivelazioni, ii. 72. Schönhals, Campagnes d'Italie de
+1848 et 1849, p. 72. Cattaneo, Insurrezione di Milano, p. 29. Parl. Pap.
+1849, lvii. (2) 210, 333. Schneidawind, Feldzug in 1848, i. 30.
 
 [415] Manin, Documents laissés, i. 106. Perlbach, Manin, p. 14. Contarini,
 Memoriale Veneto, p. 10. Rovani, Manin, p. 25. Parliamentary Papers, 1849,
@@ -39853,16 +39854,16 @@ p 51. On the other side, Noten zur Beleuchtung, p. 12.
 [420] Verhandlungen der National-versammlung, i. 25. Biedermann Dreissig
 Jahre, i. 278. Radowitz, Werke, ii. 36.
 
-[421] Actes du Gouvernement Provisoire, p. 12. Louis Blanc, Révélatìons
-Historiques, i. 135. Gamier Pagès, Révolution de 1848, vi 108, viii 148.
+[421] Actes du Gouvernement Provisoire, p. 12. Louis Blanc, Révélations
+Historiques, i. 135. Gamier Pagès, Révolution de 1848, vi 108, viii. 148.
 Émile Thomas, Histoire des Ateliers Nationaux, p. 93.
 
-[422] Barret, Mémoires, ii. 103. Caussidière, Mémoires, p. 117. Gamier
+[422] Barrot, Mémoires, ii. 103. Caussidière, Mémoires, p. 117. Garnier
 Pagès, x. 419. Normanby, Year of Revolution, i. 389. Granier de Cassagnac,
 Chute de Louis Philippe, i. 359. De la Gorce, Seconde République, i. 273.
 Falloux, Mémoires, i. 328.
 
-[423] Oeuvres de Napoleon III., iii. 13, 24. Granier de Cassagnac, ii. 16.
+[423] Œuvres de Napoleon III., iii. 13, 24. Granier de Cassagnac, ii. 16.
 Jerrold, Napoleon III., ii. 393.
 
 [424] Vitzthum, Wien, p. 108. Springer, ii. 293. Pillersdorff, Rückblicke,
@@ -39871,8 +39872,8 @@ p. 68; Nachlass, p. 118. Reschauer, ii. 176. Dunder, October Revolution, p.
 
 [425] Schönhals, p. 117. Farini, ii. 9. Parl. Pap., 1849, lvii. 352.
 
-[426] Ficquelmont p. 6. Pillersdorfif, Nachlass, 93. Helfert, iv. 142.
-Schfönhais, p. 177. Parliamentary Papers, _id_. 332, 472, 597. Contarini,
+[426] Ficquelmont p. 6. Pillersdorff, Nachlass, 93. Helfert, iv. 142.
+Schönhais, p. 177. Parliamentary Papers, _id_. 332, 472, 597. Contarini,
 p. 67. Azeglio, Operazioni del Durando, p. 6. Manin, Documents, i. 289.
 Bianchi, Diplomazia, v. 257. Pasolini, p. 100.
 
@@ -39896,7 +39897,7 @@ the latter. If authentic, this certainly proves Jellacic to have used the
 Slavic agitation from the first solely for Austrian ends. See also
 Vitzthuin, p. 207.
 
-[431] Adlerstein, Archiv, i. 146. 156. Klapká, Erinnerungen, p. 30. Irányi
+[431] Adlerstein, Archiv, i. 146, 156. Klapka, Erinnerungen, p. 30. Irányi
 et Chassin, i. 344. Serbische Bewegung, p. 106.
 
 [432] Irányi et Chassin, ii. 56. Codex der neuen Gesetze (Pesth), i. 7.
@@ -39930,7 +39931,7 @@ Ramorino, p. 41. Ramorino was condemned to death, and executed.
 [441] Garibaldi, Epistolario, i. 33. Del Vecchio, L'assedio di Roma, p. 30.
 Vaillant, Siége de Rome, p. 12. Bianchi, Diplomazia, vi. 213. Guerzoni,
 Garibaldi, i. 266. Granier de Cassagnac, ii. 59. Lesseps, Mémoire, p. 61.
-Barrot, iii 191, Discours de Napoleon 3rd, p. 38.
+Barrot, iii 191. Discours de Napoleon 3rd, p. 38.
 
 [442] Manin, Documents, ii. 340. Perlbach, Manin, p. 37. Gennarelli,
 Governo Pontificio, i. 32. Contarini, p. 224.
@@ -39940,7 +39941,7 @@ Governo Pontificio, i. 32. Contarini, p. 224.
 i. 295.
 
 [444] Verhandlungen der National Versammlung, ii. 1877, 2185. Herzog Ernst
-II., Ausmeinem Leben, i. 313. Biedermann, i. 306. Beseier, Erlebtes, p. 68.
+II., Aus meinem Leben, i. 313. Biedermann, i. 306. Beseler, Erlebtes, p. 68.
 Waitz, Friede mit Dänemark. Radowitz, iii. 406.
 
 [445] Briefwechsel Friedrich Wilhelms, p. 184. Wagener, Erlebtes, p. 28.
@@ -39973,12 +39974,12 @@ Ernst II., i. 525. Duncker, Vier Monate, p. 41.
 [453] Ernst II., i. 377. Hertslet, Map of Europe, ii. 1106, 1129, 1151.
 Parl. Papers, 1864, lxiii., p. 29; 1804, lxv., pp. 30, 187.
 
-[454] Maupas, Mémoires, i. 176. Oeuvres de Napoleon III., iii. 271. Barrot,
+[454] Maupas, Mémoires, i. 176. Œuvres de Napoleon III., iii. 271. Barrot,
 iv. 21. Granier de Cassagnac, Chute de Louis Philippe, ii. 128; Récit
 complet, p. 1. Jerrold, Napoleon III., iii. 203. Tocqueville, Corresp. ii.
 176.
 
-[455] Stockman, 396. Eastern Papers (_i.e._, Parliamentary Papers,
+[455] Stockmar, 396. Eastern Papers (_i.e._, Parliamentary Papers,
 1854, vol. 71), part 6. Malmesbury, Memoirs of an ex-Minister, i. 402; the
 last probably inaccurate. Diplomatic Study of the Crimean War, i. 11. This
 work is a Russian official publication, and, though loose and
@@ -40110,7 +40111,7 @@ Stratford's fortune, among others, in their pockets.
 [483] Martin, Prince Consort, iii. 452. Poole, Stratford, ii. 356.
 
 [484] Berti, Cavour avanti 1848, p. 110. La Rive, Cavour, p. 58. Cavour,
-Lettere (ed. Chuala), introd. p. 73.
+Lettere (ed. Chiala), introd. p. 73.
 
 [485] Cavour, Lettere (Chiala), ii. introd. p. 187. Guerzoni, Garibaldi, i.
 412. Manin, the Ex-President of Venice, now in exile, declared from this
@@ -40122,11 +40123,11 @@ Marmora, p. 204.
 
 [487] "In mezzo alle piu angosciose crisi politiche, esclamava nelle
 solitudine delle sue stanze; 'Perisca il mio nome, perisca la mia fama,
-purche l'Italia sia,'" Artom (Cavour's secretary), Cavour in Parlameuto:
+purche l'Italia sia,'" Artom (Cavour's secretary), Cavour in Parlamento:
 introd. p. 46.
 
-[488] La Farina Epistolaria, ii. 56, 81, 137, 426. The interview with
-Garibaldi; Cavour, Letiere, id. introd. p. 297. Garibaldi, Epistolario, i.
+[488] La Farina Epistolario, ii. 56, 81, 137, 426. The interview with
+Garibaldi; Cavour, Lettere, id. introd. p. 297. Garibaldi, Epistolario, i.
 55.
 
 [489] Cavour, Lettere (Chiala), iii. introd. p. 32. Bianchi, Diplomazia,
@@ -40142,7 +40143,7 @@ Cavour, p. 333. Bianchi, Diplomazia, vii. 61. Massari, Cavour, p. 314.
 Parliamentary Papers, 1859, xxxii. 204, 262. Mérimée, Lettres à Panizzi, i.
 21. Martin, Prince Consort, iv. 427.
 
-[492] La Farina, Epistolaria, ii. 172. Parliamentary Papers, 1859, xxxiii.
+[492] La Farina, Epistolario, ii. 172. Parliamentary Papers, 1859, xxxiii.
 391, 470.
 
 [493] Cavour, Lettere, iii. introd. 212, iii. 107. Bianchi, Politique de
@@ -40186,10 +40187,10 @@ Epist., ii. 438. Persano, iv. 44, Guerzoni, ii. 212.
 180. La Rive, p. 313. Berti, Cavour avanti 1848, p. 302.
 
 [504] "Le comte le reconnu, lui serra la main et dit: 'Frate, frate, libera
-chiesa in libero stato' Ce furent ses dernières paroles." Account of the
+chiesa in libero stato.' Ce furent ses dernières paroles." Account of the
 death of Cavour by his niece, Countess Alfieri, in La Rive, Cavour, p. 319.
 
-[505] Berichte uber der Militair etat, p. 669. Schulthess, Europaischer
+[505] Berichte über der Militair etat, p. 669. Schulthess, Europaischer
 Geschichts Kalender, 1862, p. 122.
 
 [506] Poschinger, Preussen im Bundestag ii. 69, 97; iv. 178. Hahn,
@@ -40238,13 +40239,13 @@ speech of Feb. 21st, 1879, on this subject, in Hahn, iii. 599.
 
 [519] B. and F. State Papers, 1864-65, p. 460.
 
-[520] La Marmora, Un po più di luce, pp. 109, 146, Jacini, Due Anni, p.
+[520] La Marmora, Un po più di luce, pp. 109, 146. Jacini, Due Anni, p.
 154. Hahn, i. 377. In the first draft of the Treaty Italy was required to
 declare war not only on Austria but on all German Governments which should
 join it. King William, who had still some compunction in calling in Italian
 arms against the Fatherland, struck out these words.
 
-[521] La Marmora, Un po piú di luce, p. 204. Hahn, i. 402.
+[521] La Marmora, Un po più di luce, p. 204. Hahn, i. 402.
 
 [522] Hahn, Bismarck, i. 425. Hahn, Zwei Jahre, p. 60. Oesterreichs Kämpfe,
 i. 30.
@@ -40321,8 +40322,8 @@ Prusse, p. 61.
 [537] Hahn, ii. 69. Sorel, i. 236.
 
 [538] Prince Napoleon, in Revue des Deux Mondes, April 1, 1878; Gramont, in
-Revue de France, April 17, 1878. (Signed Andreas Memor.) Ollivier, L'Eglise
-et l'Ètat, ii. 473. Sorel, i. 245.
+Revue de France, April 17, 1878. (Signed Andreas Memor.) Ollivier, L'Église
+et l'État, ii. 473. Sorel, i. 245.
 
 [539] Der Deutsch Französische Krieg, 1870-71 (Prussian General Staff), i.
 72.
@@ -40336,7 +40337,7 @@ et l'Ètat, ii. 473. Sorel, i. 245.
 [543] Favre's circular alleged that the King of Prussia had declared that
 he made war not on France but on the Imperial Dynasty. King William had
 never stated anything of the kind. His proclamation on entering France, to
-which Favre appears to have referred, merely said that the war was to he
+which Favre appears to have referred, merely said that the war was to be
 waged against the French army, and not against the inhabitants, who, so
 long as they kept quiet, would not be molested.
 
@@ -40344,7 +40345,7 @@ long as they kept quiet, would not be molested.
 de Bazaine, vol. ii., p. 219. Regnier, p. 20. Hahn, ii., 171.
 
 [545] Hahn, ii. 216. Valfrey, Diplomatie du Gouvernement de la Défense
-Nationale, ii. 51. Hertsier, Map of Europe, iii. 1912, 1954.
+Nationale, ii. 51. Hertslet, Map of Europe, iii. 1912, 1954.
 
 [546] Parl. Pap. 1876, vol. lxxxiv., pp. 74, 96.
 
@@ -40380,10 +40381,9 @@ iii. 116.
 
 [Transcriber's Note: (1) Footnotes have been numbered and collected at the
 end of the work. (2) Sidenotes have been placed in brackets prior to the
-paragraph in which they occur. (3) In a few places (all in the footnotes)
-the text in our print copy was illegible and has been marked with a [***].
-(4) The spelling in the print copy was not always consistent. Irregular
-words in the original (e.g., "ascendent," "Christain," and "Würtemburg")
+paragraph in which they occur.
+(3) The spelling in the print copy was not always consistent. Irregular
+words in the original (e.g., "Christain" and "Würtemburg")
 have been retained whenever possible.]
 
 
@@ -40396,9 +40396,9 @@ have been retained whenever possible.]
 
 
 
-End of Project Gutenberg's History of Modern Europe 1972-1878, by C. A. Fyffe
+End of Project Gutenberg's History of Modern Europe 1792-1878, by C. A. Fyffe
 
-*** END OF THIS PROJECT GUTENBERG EBOOK HISTORY OF MODERN EUROPE 1972-1878 ***
+*** END OF THIS PROJECT GUTENBERG EBOOK HISTORY OF MODERN EUROPE 1792-1878 ***
 
 ***** This file should be named 6589-8.txt or 6589-8.zip *****
 This and all associated files of various formats will be found in:
